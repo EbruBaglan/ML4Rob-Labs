@@ -3,5 +3,5 @@ This repository consists of the laboratory activities includes my submissions fo
 
 - Lab 1: Naive Bayes classifier
 - Lab 2: Linear regression
-- Lab 3: kNN classifier Assignment
-- Lab 4: neural networks
+- Lab 3: kNN classifier
+- Lab 4: Neural Networks
